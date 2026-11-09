@@ -1,0 +1,21 @@
+Origin: a12z-vm
+Label: a12z-vm
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm iphoneos-arm64
+Components: main
+Description: Virtual Mac for iPad Pro A12Z
+Date: Mon, 09 Nov 2026 18:06:23 +0000
+MD5Sum:
+ f65ec4248041b143e11aee003723780a  1056 Packages
+ c962f68dd1f513ba6e48bc64dccd5d3e  684 Packages.gz
+ 1def2500d6033e199f266d3e5dcec7df  742 Packages.bz2
+SHA1:
+ 40637038aade57bf5f0531bd9acb9fab0b8daefc  1056 Packages
+ bf5e91dc49b63676d5710072a51c46a823fcd200  684 Packages.gz
+ 36af27dfc330f4cbc1ebd70ff9655180a5e3259e  742 Packages.bz2
+SHA256:
+ b0acf59e2346007f17991138f2dd16b8adece9d7c3f7a8efbed8b86d66da05c1  1056 Packages
+ 52016797c0cd723992180e4471a557bf236b744eeaca37ed44f9aadcda6556c9  684 Packages.gz
+ 93556fa506308aad3ab042792a5a8ce85bddb963e02484917e3b1fb48497b845  742 Packages.bz2
