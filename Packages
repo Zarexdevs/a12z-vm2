@@ -17,8 +17,8 @@ Depends: firmware (>= 14.5), firmware (<< 16.4), ellekit | org.coolstar.libhooke
 Tag: role::enduser
 SileoDepiction: https://nfzerox.github.io/cydia/depictions/com.mac.virtual/depiction.json
 Filename: debs/VirtualMac_1.2.4_a12z.deb
-Size: 13611324
-MD5sum: 1bb003ad682659c48f97ae7d49afdf15
-SHA1: 66b9a3cdfa7c5cd80cb526a4b40c915267765135
-SHA256: de5fa8bae5f45e6c1f008766f7d6152598f2b7ec2bb361c4c8c544e818528fb5
+Size: 13608084
+MD5sum: 8a4ee87a7f2dd8d15bfc36e8b326f1e5
+SHA1: 3814af799873ca802ed7a28f5a675504b2e6510f
+SHA256: 01badb08c9373daad1d795808de8d40c03214b3b34ae700166c96a0808a1a22c
 
